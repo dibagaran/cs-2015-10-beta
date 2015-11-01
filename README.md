@@ -1,5 +1,7 @@
 # C# / October 2015 / Group 1
 
+[![Join the chat at https://gitter.im/dibagaran/cs-2015-10-beta](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dibagaran/cs-2015-10-beta?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### References:
 * [C# 4.0 The Complete Reference](http://www.amazon.com/C-4-0-The-Complete-Reference/dp/007174116X)
 * [C# 5.0 in a Nutshell: The Definitive Reference](http://www.amazon.com/5-0-Nutshell-The-Definitive-Reference/dp/1449320104)
